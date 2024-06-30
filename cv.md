@@ -22,7 +22,10 @@ using namespace std;
 int main() {
 
 cout << "Hello, World!";
+
 return 0;
+
+}
 
 ## Знание языков
 Русский язык - носитель языка
